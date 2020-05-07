@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+//результаты каждой серии тернира
 public class Turnierserie {
 	Map<Integer, Turnier> turnieren;
 	List<Reiter> reiter;
