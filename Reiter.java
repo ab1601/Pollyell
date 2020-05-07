@@ -1,4 +1,5 @@
 public class Reiter {
+	// количество побед и вероятность,с которой наездника выбивают из седла
 	int siege;
 	float wahrscheinlichkeit;
 
